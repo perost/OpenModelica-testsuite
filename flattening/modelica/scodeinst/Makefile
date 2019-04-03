@@ -745,6 +745,7 @@ Size1.mo \
 Size2.mo \
 Size3.mo \
 Size4.mo \
+Size5.mo \
 SizeInvalidArgs1.mo \
 SizeInvalidArgs2.mo \
 SizeInvalidIndex1.mo \
